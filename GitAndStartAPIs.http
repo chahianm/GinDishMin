@@ -1,0 +1,6 @@
+@GitAndStartAPIs_HostAddress = http://localhost:5225
+
+GET {{GitAndStartAPIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
